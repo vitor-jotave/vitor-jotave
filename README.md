@@ -1,4 +1,4 @@
-## Opa, eu sou o João, desenvolvedor web e amante do café!
+## Web Developer and Coffee Lover.
 
 <div align="center">
   <a href="https://github.com/joao-tenil">
