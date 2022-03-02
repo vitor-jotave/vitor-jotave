@@ -1,4 +1,4 @@
-## Web Developer and Coffee Lover.
+## Hi! I'm just a Coffee Lover who can code :)
 
 <div align="center">
   <a href="https://github.com/joao-tenil">
