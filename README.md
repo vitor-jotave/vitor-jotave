@@ -1,4 +1,4 @@
-## Hi! I'm just a Coffee Lover who can code :)
+## Hi! I'm just a Coffee Lover who codes :)
 
 <div align="center">
   <a href="https://github.com/joao-tenil">
